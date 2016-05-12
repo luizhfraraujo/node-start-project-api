@@ -15,10 +15,14 @@ Este é um template inicial para projetos de API em NodeJS, utilizando banco de 
 
 Outros pacotes você pode verificar no [package.json](https://github.com/tir4y/node-api-start-project/blob/master/package.json) do projeto.
 
+## Changelog
+
+* 12/05/2016 - Primeiro Commit com projeto inicial criado (Tasks e Users)
+
 ## Instalação
 
-* Clone o repositório: `git clone https://github.com/tir4y/node-api-start-project.git`
-* Acesse o diretório do projeto: `cd node-api-start-project`
+* Clone o repositório: `git clone https://github.com/tir4y/node-start-project-api.git`
+* Acesse o diretório do projeto: `cd node-start-project-api`
 * Instale as dependências: `npm install`
 * Inicie o servidor: `npm start`
 * Rodar testes: `npm test`
